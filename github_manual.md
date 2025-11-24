@@ -75,7 +75,8 @@ utgafa a ad nota og sameina handvirkt.
 -   Gleyma ad gera commit adur en push: vista breytingar fyrst.
 -   Lenda i merge conflicts: tveir breyta somu linu.
 -   Vinna a rongu branchi: alltaf athuga virkt branch.
--   Gleyma ad pull-a: veldur osamraemi.
+-   Gera git fetch, og svo merch
+  
 
 ## Ymist um Commands
 
