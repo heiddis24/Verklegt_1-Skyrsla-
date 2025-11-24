@@ -82,26 +82,26 @@ utgafa a ad nota og sameina handvirkt.
 
 ### Repositories
 
--   `git init`
--   `git clone <repository_URL>`
+-   `git init` - Býr til nýtt repository 
+-   `git clone <repository_URL>` - Býr til clone/copy af repo sem er núþegar til 
 
 ### Skrar og breytingar
 
--   `git add .`
--   `git commit -m "Initial commit"`
+-   `git add .` - Bættir við breytingu í því directory 
+-   `git commit -m "Initial commit"` - Vistar breytingar með commenti að útskýra breytingarnar
 -   `git status` - Leyfir þér að skoða status á repo 
--   `git log`
--   `git checkout -- <file_name>`
+-   `git log` - Sýnir commit history, þar á meðal nýjasta commit 
+-   `git checkout -- <file_name>` - Skiptir um file og leyfir þér að skoða það (???? er þetta actual command?)
 
 ### Branches og merging
 
 -   `git checkout -b <branch_name>`
--   `git checkout <branch_name>`
--   `git merge <source_branch>`
+-   `git checkout <branch_name>` - Skiptir um branch og leyfir þér að skoða aðra 
+-   `git merge <source_branch>` - Sameina branch inn í current branch 
 
 ### Collaboration
 
--   Fork
+-   Fork - Er nýtt respotory sem deilir kóða 
 -   Pull Request
 
 ### Remote repositories
