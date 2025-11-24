@@ -1,4 +1,4 @@
-Um Github og Github Desktop:
+# Um Github og Github Desktop:
 
 -   **GitHub** er vefthjonusta sem gerir ther klaift ad geyma koda,
     fylgjast med breytingum og vinna med odrum i verkefnum med hjalp
@@ -89,7 +89,7 @@ utgafa a ad nota og sameina handvirkt.
 
 -   `git add .`
 -   `git commit -m "Initial commit"`
--   `git status`
+-   `git status` - Leyfir þér að skoða status á repo 
 -   `git log`
 -   `git checkout -- <file_name>`
 
