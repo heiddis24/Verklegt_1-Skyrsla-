@@ -19,4 +19,4 @@ To do á morgun
 
 
 ## Dagur 2
-Á degi tvö mættu Tristan og Dagur. 
+Á degi tvö mættu Tristan, Dagur og Hafþór. 
