@@ -21,9 +21,9 @@ To do á morgun
 ## Dagur 2
 Á degi tvö mættu Tristan, Dagur, Hafþór og Heiðdís. 
 
-Við byrjuðum á requirement list og User group analysis og gerðum to do lista
+Við byrjuðum á user group analysis og út frá því byrjuðum við á requirements listanum. Einnig gerðum við to do lista.
 
-to do list fyrir morgunndaginn
+To-Do list fyrir morgunndaginn
 
 Tristan
 - user group analysis
