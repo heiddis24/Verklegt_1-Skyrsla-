@@ -25,7 +25,7 @@ Við byrjuðum á requirement list og User group analysis og gerðum to do lista
 
 to do list fyrir morgunndaginn
 
-Tristann
+Tristan
 - user group analysis
 - admin req list
 - low fi admin
