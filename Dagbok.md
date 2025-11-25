@@ -16,3 +16,7 @@ To do fyrir morgun
 To do á morgun 
 - Byrja á A reqirements
 - Æfa okkur a GitHub með bros á vör 
+
+
+## Dagur 2
+Á degi tvö mættu Tristan og Dagur. 
