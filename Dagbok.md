@@ -19,7 +19,7 @@ To do á morgun
 
 
 ## Dagur 2
-Á degi tvö mættu Tristan, Dagur og Hafþór. 
+Á degi tvö mættu Tristan, Dagur, Hafþór og Heiðdís. 
 
 Við byrjuðum á requirement list og User group analysis og gerðum to do lista
 
