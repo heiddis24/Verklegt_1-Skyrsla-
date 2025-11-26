@@ -1,0 +1,15 @@
+Spurningar/reglur Hópsins
+Hvernig vilti skipta tímunum - as in vinna snemma/seint, löng eða stutt pása o.s.fl?: Við erum öll sammála um það að hafa lágmarkskröfu á mætingu, við erum að miða okkur við að vera til ca. 15 enn á sama tíma þá ætlum við að meta hvern dag fyrir sig.
+
+Hvernig fýlaru að vinna?: Skiptum upp í verkefni, hver og einn klárar sitt verk og tjékkar svo á todo-lista til að finna mögulega nýtt verkefni til að taka að sér eða aðstoða næsta einstakling.
+Hver er þín afstaða á að nota ChatGPT eða gervigreind í þetta verkefni?: Það er alltílagi að nota Chat sem hjálpartæki, svo lengi sem að það sé ekki copy/paste frá chat og inní verkefnið okkar það er það sem við erum öll sammála með
+Hvernig vilt þú fá feedback Face 2 face samræður eða discord fyrir samskipti?: Allir sammála um að koma að náunganum með nærgætni og hlýju, koma fram við náungann eins og þú villt að sé komið fram við þig. Við erum öll til í að taka á móti feedback-i svo lengi sem það sé uppbyggjandi og kemur hópnum áfram og heldur góðum móral í hópnum.
+Mínir styrkleikar í hópavinnu?: Heiðdís: Ýtir á eftir fólki að gera verkefnin sín, getur hljómað hvöss þó hún sé ekki að meina neitt með því. Hafþór: góður í að klára að gera sín verkefni og skila sínu þegar hann er beðinn um það. Dagur: Góður að klára sín verkefni og gera sitt vel. Tristan: Mjög góður að vera virkur og gera sitt svo lengi sem hann skilur verkefnið eða það sem er verið að gera. Tanja: Góð í skipulagi, uppsetningu og að halda utan um hópinn/hópverkefnið og að klára sín verk.
+Heyrnatóla pælingar, má pikka í þig, finnst þér það þægilegra?: Það mega allir vinna með heyrnartól ef þeir vilja, það má pikka í þig þó þú sért með heyrnartól nema ef þú tekur annað fram, það er allt í góðu að segja “hey ég ætla að focus-a núna og spjalla við ykkur þegar ég er búin” og þá látum við þig vera, megum samt pikka í þig ef það er mikilvægt.
+Fyrirvara um seinkunn, veikur, kemst ekki á réttum tíma?: Allir sammála með það að láta vita ef eitthvað kemur uppa t.d. veikur, mætir ekki á réttum tíma eða eitthvað kemur uppá þá má endilega láta vita. Auðvitað getur alltaf komið eitthvað uppá, að maður þurfi að fara fyrr, kemst ekki eða kemst seinnta og það er allt í góðu, bara allir að gera sitt besta í að láta vita og vinna saman.
+
+
+
+Samantekt
+Við í hópnum erum öll sammála um að vinna að sameiginlegu markmiði, við erum LIÐ. Okkur finnst mikilvægt að kurteisi, virðing og nærgætni séu leiðarljós í allri okkar samskipta- og hópvinnu. Við leggjum okkur öll fram og ætlum að gera okkar besta í hverju verkefni sem við tökumst á við, á sama tíma og við styðjum hvort annað áfram.Við ákváðum að vera hreinskilin og opin í samskiptum en ávallt koma hlutum á framfæri á uppbyggilegan og kurteislegan hátt. Við treystum því að allir leggi sitt af mörkum eftir bestu getu og sýnum fullan skilning ef upp kemur staða þar sem einhver getur ekki mætt eða þarf stuðning. Að lokum viljum við undirstrika að við erum eitt teymi. Við ætlum að vinna saman af fagmennsku og samheldni til að klára verkefnið vel á þeim þremur vikum sem við höfum og gera það þannig að okkur öllum líði vel í ferlinu.
+
