@@ -44,4 +44,16 @@ To do á morgunn
 - skoða klasarit
 - skoða B og C req list
 
+## Dagur 3 
+Dagur 3, 26.nóvember:
+Í dag héldum við morgunfund með Gylfa kennara, hann fór aðeins yfir verklagið og hvernig við getum komið okkur almennilega í gang, hann einnig hjálpaði okkur að þjappa okkur saman sem hóp og gera almennilegt verklag. Við byrjuðum á því að gera nýjann samning innan hópsins, það gekk vel og vorum við frekar sammála með allt það sem hann hefur í sér. Síðan færðum við okkur inn í stofu U201 til þess að fá betri vinnuaðstöðu. Þar náðum við að virkilega byrja að vinna, þar voru allir komnir inní verkefnið og vissu hvert hlutverk sitt var. Við gerðum okkur To-Do lista til að geta séð hvað það er sem við ætlum að ná að fara yfir fyrir daginn í dag, settum okkur markmið. Þau verkefni sem við náum ekki að klára á To-Do listanum okkar í dag færast fyrir á To-Do lista morgundagsins og þá röðum við þeim eftir því hversu mikilvæg þau eru, það mikilvægast er efst (það sem við þurfum að klára fyrst) og svo koll af kolli. 
+To do list: 
+o	Klára requarments – Öll saman
+o	Fínpússa undirbúning fyrir Happy-path – Öll saman
+o	Low-fi proto-type - ?
+o	Use-testcase
+o	Útlit: Hvernig við viljum hafa þetta í terminal, sniðugt að gera þetta í notes/GoodNotes
+o	Pæla í villumeldingum og hvernig er hægt að koma í veg fyrir þær
+o
+
 
