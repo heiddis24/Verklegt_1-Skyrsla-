@@ -58,3 +58,12 @@ To do list:
 -	Pæla í villumeldingum og hvernig er hægt að koma í veg fyrir þær
 -
 
+##D Dagur 4
+
+í dag mætti Tristann klukkan 08:10 og Dagur kl 09:00 og við byrjuðum á að spurja TA nokkrar spurningar og gera To do lista fyrir daginn
+
+to do 
+-sameina reqiurement listana
+-gera use case úr öllum requirements og hafa hvert use case sama númer og í requirement listanum
+-gera happy-path fyrir flest use case
+-Byrja á Class diagram
