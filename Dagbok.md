@@ -60,7 +60,8 @@ To do list:
 
 ## Dagur 4
 
-í dag mætti Tristann klukkan 08:10 og Dagur kl 09:00 og við byrjuðum á að spurja TA nokkrar spurningar og gera To do lista fyrir daginn
+í dag mætti Tristann klukkan 08:10 og Dagur kl 09:00 og við byrjuðum á að spurja TA nokkrar spurningar og gera To do lista fyrir daginn 
+Tanja mætti 09:20 og svo komu tvö TA og sögðu okkur að Heiðdís og Hafþór væru búinn að skrá sig úr hópnum
 
 to do 
 - sameina reqiurement listana
